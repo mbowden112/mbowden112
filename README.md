@@ -1,4 +1,4 @@
-## Hi there 👋
+Welcome to my GitHub profile!
 
 <!--
 **mbowden112/mbowden112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
